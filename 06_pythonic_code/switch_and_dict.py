@@ -21,3 +21,9 @@ def holidays_dict(season):
         "Fall": "Halloween",
     }.get(season, "Personal day off")
     return holiday
+
+if __name__ == "__main__":
+    season = 'Fall'
+    print(holidays_switch(season))
+    print(holidays_dict(season))
+    
