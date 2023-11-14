@@ -1,10 +1,24 @@
 
+# Definitions
+[official Python glossary][1]
+
+[1]: https://docs.python.org/3/glossary.html
+
+### Python the Language
+The Python programming language gets its name from the British comedy group Monty Python, rather than the snake (although Python tutorials and documentation use both Monty Python and snake references).
+
 ### Python the Interpreter
-CPython the Python interpreter maintained by the Python Software Foundation, avail-
-able at https://www.python.org.
+Python interpreter — the actual software that
+reads the text of a `.py` file and carries out its instructions.
+
+[CPython][2] the Python interpreter maintained by the Python Software Foundation.
+
+[2]: https://www.python.org
+
 CPython is an implementation of the Python
-language—that is, software created to follow a specification—but there
+language — that is, software created to follow a specification — but there
 are others.
+
 CPython is called the Python language’s *reference implementation* because
 if there’s a difference between how CPython and another interpreter inter-
 pret Python code, CPython’s behavior is considered canonical and correct.
@@ -41,4 +55,6 @@ used as variable names (that is, as identifiers).
 |break|except|import|or|with|
 |class|False|in|pass|yield|
 
-[realpython - keywords](https://realpython.com/python-keywords/) 
+[realpython - keywords][3]
+
+[3]: https://realpython.com/python-keywords/
