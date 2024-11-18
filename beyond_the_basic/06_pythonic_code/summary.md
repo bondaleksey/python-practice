@@ -12,8 +12,6 @@
 
 
 
-For further information about dictionaries, consult Python program-
-mer Brandon Rhodes’s incredible talks about dictionaries and how they
-work: 
+For further information about dictionaries, consult Python programmer Brandon Rhodes’s incredible talks about dictionaries and how they work: 
 “The Mighty Dictionary” at PyCon 2010, viewable at https://invpy.com/mightydictionary, and 
 “The Dictionary Even Mightier” at PyCon 2017, viewable at https://invpy.com/dictionaryevenmightier.
